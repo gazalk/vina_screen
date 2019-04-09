@@ -7,6 +7,6 @@ do
 	b=${b::-4}
 	echo is the merge file $b?
     echo Making complex for ligand $f
-    c="ACE_$b.pdb"
-	cat ACE.pdb $f > $c 
+    c="receptor_$b.pdb"
+	cat receptor.pdb $f > $c 
 done
