@@ -1,4 +1,4 @@
-receptor = ACE.pdbqt
+receptor = receptor.pdbqt
 
 center_x =  15.9
 center_y =  -4.7
